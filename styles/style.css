@@ -1,5 +1,8 @@
 body{
     font-family: 'Merriweather', serif;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Merriweather', serif;
+    color:#FFF;
 }
 
 /* this is headersection style */
@@ -12,7 +15,7 @@ width: 1320px;
 height: 600px;
 margin:15px 5px 0 150px;
 border-radius: 16px;
-border-radius: 16px;
+
 
 
 
@@ -38,6 +41,47 @@ font-weight: 900;
    
 }
 .gredien{
-    border-radius: 16px;
-    background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+
+background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+    
+}
+/* this is mainsection style */
+.all-section{
+ width: 1600px;
+height: 7335px;
+background: #FFF;
+padding: 100px auto ;
+
+}
+.image{
+    background-image:url('../New\ Year\ Photo.png');
+    width: 802.9px;
+height: 500px;
+margin: auto;
+}
+.mcontent{
+    font-family: Inter;
+  
+    text-align: center;
+    
+
+}
+.mhead{
+color: #F00;
+font-size: 88px;
+font-weight: 700;
+
+}
+.pclass{
+color: #F00;
+font-size: 24px;
+font-weight: 500;
+
+}
+.nhead{
+color: #070211;
+font-family: Inter;
+font-size: 48px;
+font-weight: 700;
+
 }
