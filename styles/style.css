@@ -1,0 +1,43 @@
+body{
+    font-family: 'Merriweather', serif;
+}
+
+/* this is headersection style */
+
+
+
+.headerdiv{
+    background-image: url('../resources/Banner\ Image.png');
+width: 1320px;
+height: 600px;
+margin:15px 5px 0 150px;
+border-radius: 16px;
+border-radius: 16px;
+
+
+
+}
+
+
+.header3{
+color: #FFF;
+font-size: 32px;
+font-weight: 400;
+text-align: center;
+
+}
+.header1{
+color: #FFF;
+text-align:center;
+font-size: 72px;
+font-weight: 900;
+}
+.header-content{
+    padding:120px 344px 400px 344px;
+    align-items: center;
+   
+}
+.gredien{
+    border-radius: 16px;
+    background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+}
