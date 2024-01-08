@@ -135,3 +135,147 @@ background-repeat: no-repeat;
 margin-left: 126px;
 
 }
+/* this is third section style */
+.tsection{
+    width: 1320px;
+     height: 482px;
+     color: #F00;
+    
+    }
+     
+.tdiv{
+   text-align: center;
+   padding:100px 386px 216px 385px;
+
+}
+.tpara{
+color: #070211;
+font-size: 32px;
+font-weight: 600;
+line-height: 56px;
+text-transform: capitalize;
+}
+.tspan{
+    color: #F00;
+}
+.t-btn{
+    border-radius: 8px;
+background: #F00;
+padding: 16px 32px;
+color:#FFFFFF;
+border: none;
+}
+/* this is four section style */
+.f-section{
+    width: 1600px;
+height: 735px;
+}
+.all-div{
+    display: flex;
+    justify-content: space-between;
+    margin: 100px 140px;
+}
+.f-img{
+    background-image: url('../Ellipse\ 1.png');
+    width: 364.844px;
+height: 364.844px;
+}
+.hhh{
+color: #F00;
+font-size: 48px;
+font-weight: 700;
+font-family: Inter;
+
+
+}
+.f-para{
+    color: rgba(7, 2, 17, 0.60);
+font-size: 20px;
+font-weight: 400;
+line-height: 32px;
+}
+.f-head{
+color: #070211;
+font-size: 48px;
+font-weight: 900;
+line-height: normal;
+text-transform: capitalize;
+}
+.f-img2{
+/* background-image: url('../resources/Group\ 96.png'); */
+width: 140px;
+height: 140px
+}
+
+#hd {
+color: #F00;
+font-size: 24px;
+font-weight: 500;
+}
+.h-div{
+   align-items: center;
+}
+
+/* this is five section  style */
+
+.v-section{
+    width: 1600px;
+height: 735px;
+
+
+
+.v-head{
+color: #070211;
+ font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+}
+.v-head2{
+color: #F00;
+font-family: Merriweather;
+font-size: 72px;
+font-weight: 900;
+
+}
+.v-para{
+color: rgba(7, 2, 17, 0.60);
+font-family: Inter;
+font-size: 20px;
+font-weight: 500;
+line-height: 32px;
+}
+.v-p{
+    text-align: center;
+}
+.img1{
+    background-image: url('../Rectangle\ 1.png');
+    width: 429px;
+height: 433px;
+}
+/* waiting design */
+
+
+
+
+
+
+
+
+
+/* this is the six section style  */
+.imth{
+    width: 424px;
+height: 450px;
+}
+
+.last-footer{
+    width: 1600px;
+height: 609px;
+
+
+
+}
+{
+  background-color: #070211;
+
+}
