@@ -40,7 +40,7 @@ font-weight: 900;
 }
 .gredien{
 
-background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+/* background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%); */
     
 }
 /* this is mainsection style */
@@ -139,13 +139,15 @@ margin-left: 126px;
 .tsection{
     width: 1320px;
      height: 482px;
-     color: #F00;
-    
+     background-color: bisque;
+     margin:100px 386px 216px 150px;
+     padding-top: 100px;
     }
      
 .tdiv{
+    /* background-color: #FFFFFF; */
    text-align: center;
-   padding:100px 386px 216px 385px;
+  
 
 }
 .tpara{
@@ -169,11 +171,20 @@ border: none;
 .f-section{
     width: 1600px;
 height: 735px;
+background-color:aliceblue;
+}
+.span2{
+    color: #070211;
+font-family: Merriweather;
+font-size: 72px;
+font-weight: 900;
+
 }
 .all-div{
     display: flex;
     justify-content: space-between;
     margin: 100px 140px;
+    /* gap:100px; */
 }
 .f-img{
     background-image: url('../Ellipse\ 1.png');
@@ -220,7 +231,14 @@ font-weight: 500;
 
 .v-section{
     width: 1600px;
-height: 735px;
+height: 735px;}
+
+.img10{
+    background-image: url('../Rectangle\ 1.png');
+    height: 50px;
+    width: 50px;
+    
+}
 
 
 
@@ -253,29 +271,109 @@ line-height: 32px;
 height: 433px;
 }
 /* waiting design */
+/* this is six section  */
+last-container{
 
 
 
-
-
-
-
-
-
-/* this is the six section style  */
-.imth{
-    width: 424px;
-height: 450px;
 }
 
-.last-footer{
-    width: 1600px;
+.header-six{
+    color: #070211;
+
+text-align: center;
+font-family: Merriweather;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+text-transform: capitalize;
+}
+.para-six{
+color: rgba(7, 2, 17, 0.60);
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-weight: 400;
+line-height: 32px;
+}
+.button-input{
+    text-align: center;
+    gap:0;
+    
+}
+.only-button{
+    width: 648px;
+height: 72px;
+border-radius: 50px 0 50px 50px;
+}
+.btn-6{
+border-radius: 0px 50px 50px 0px;
+background: #F00;
+width: 210px;
+height: 72px;
+font-size: 20px;
+color: #FFF;
+}
+#img-six{
+width: 150px;
+height: 150px;
+
+}
+.img7{
+    background-image: url('../resources/Group\ 61.png');
+background-repeat: no-repeat;
+background-position:center;
+
+}
+.div-6{
+    align-items: center;
+    background-color:azure;
+      width: 1600px;
+height: 735px;
+padding-top: 100px;
+
+
+}
+/* this is foooter section style  */
+footer{
+width: 1600px;
 height: 609px;
+background-color: #070211;
+}
+.footer-section{
+    color: #FFF;
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+line-height: 40px;
 
+}
+footer> .div-type{
+    margin-top: 200px;
+    align-content: space-between;
+  
+}
+.foooter-main{
+
+    /* padding: 100px; */
+}
+.anchor{
+    color: #FFF;
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+line-height: 40px
 
 
 }
-{
-  background-color: #070211;
+#last{
+    color: #FFF;
 
+font-family: Inter;
+margin-bottom: 200px;
+}
+.last-time{
+    justify-content: space-between;
+    
 }
